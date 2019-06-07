@@ -1,5 +1,9 @@
 # KNU-Project-IVSS (Intelligent Video Surveillance System)
 > 경북대학교 컴퓨터학부 종합설계프로젝트2 
+
+AWS S3, Recognition is used to detect face-to-face violence, and face recognition is performed to enable the parent of the child to respond immediately via FCM alarm and SMS text message.
+
+</br>
 ## 지능형 영상 감시 시스템을 적용한 아동 교육기관 내 학대 방지 및 알림 서비스
 [![Java Version](https://img.shields.io/badge/Java-1.8-red.svg)](https://www.java.com/ko/) [![AWS Rekognition](https://img.shields.io/badge/lisence-AWSRekognition-yellow.svg)](https://aws.amazon.com/ko/rekognition/)
 [![Maven Version](https://img.shields.io/badge/Maven-3.6.0-blue.svg)](https://maven.apache.org)
@@ -48,6 +52,16 @@
 - 폭력이 감지 되면 실시간으로 기록이 된 폭력시점의 스크린샷 로그를 확인 가능
 
 <hr>
+</br>
+
+# Tool  
+
+- AWS S3 Bucket & Rekognition
+- Eclipse & Maven Aphache 3.6.0
+- Android Studio 3.4.1(Java)
+- CoolSMS API(SMS Message)
+- OpenCV(Streaming & video frame extraction)
+
 </br>
 
 # 구현
