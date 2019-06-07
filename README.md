@@ -4,7 +4,9 @@
 AWS S3, Recognition is used to detect face-to-face violence, and face recognition is performed to enable the parent of the child to respond immediately via FCM alarm and SMS text message.
 
 </br>
+
 ## 지능형 영상 감시 시스템을 적용한 아동 교육기관 내 학대 방지 및 알림 서비스
+
 [![Java Version](https://img.shields.io/badge/Java-1.8-red.svg)](https://www.java.com/ko/) [![AWS Rekognition](https://img.shields.io/badge/lisence-AWSRekognition-yellow.svg)](https://aws.amazon.com/ko/rekognition/)
 [![Maven Version](https://img.shields.io/badge/Maven-3.6.0-blue.svg)](https://maven.apache.org)
 
