@@ -52,6 +52,10 @@
 
 # 구현
 
+![프레젠테이션1 (1)](https://user-images.githubusercontent.com/33486820/59119465-d648cc80-898d-11e9-8616-052f76fc0f55.png)
+
+</br>
+
 ## Streamer server
 - 웹캠을 연결하여 일정 시간마다 웹캠으로부터 얻은 동영상을 저장하여 해당 정보를 폭력감지 서버에 전송하는 서버.
 - Streamer server는 Violence detection server와 로컬로 연결되어 있으며 일정 시간마다 동영상을 저장하여 저장된 동영상의 경로를 폭력감지 서버에 소켓통신을 통해 전송한다.
