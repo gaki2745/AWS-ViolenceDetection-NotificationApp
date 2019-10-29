@@ -58,12 +58,17 @@ AWS S3, Recognition is used to detect face-to-face violence, and face recognitio
 
 # Tool  
 
+<img width="784" alt="image" src="https://user-images.githubusercontent.com/33486820/67731765-8f429d00-fa3c-11e9-9587-2085f16c8f6e.png">
+
+
 - AWS S3 Bucket & Rekognition
 - Eclipse & Maven Aphache 3.6.0
 - Android Studio 3.4.1(Java)
 - CoolSMS API(SMS Message)
 - OpenCV(Streaming & video frame extraction)
 - Firebase Android (FCM)
+
+
 
 </br>
 
